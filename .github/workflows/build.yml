@@ -1,0 +1,9 @@
+name: CI CD
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu_latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run Build
+        run: echo "hello betty \n test from.." 
