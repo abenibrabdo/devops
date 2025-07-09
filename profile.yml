@@ -1,0 +1,10 @@
+fullName: Abenezer Seifu
+currentPosition: "Software Developer"
+exprience: 2
+work_exprience:
+  - organization: INSA
+    position: Software Developer
+education:
+  - name: "wollega university"
+    field: "electrical and computer enginering"
+   
