@@ -1,0 +1,12 @@
+projectName: AwesomeApp
+version: 2.0.2
+authors:
+  - alice
+  - bob
+  - kebde
+realease: false
+environments:
+  - name: Dev
+    url: abc.com
+  - staging: abd
+    url: abcd.com

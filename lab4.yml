@@ -1,0 +1,8 @@
+name: DevOps Lab
+version: 1.0
+tags:
+  - acd
+  - efg
+  - hig
+is_active: false
+description: "hello abeni."

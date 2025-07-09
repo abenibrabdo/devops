@@ -6,4 +6,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Run Build
-        run: echo "hello betty \n test from.." 
+        run: echo "hello betty" 
